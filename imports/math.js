@@ -1,3 +1,5 @@
-export const addFunction = function(a, b) {
+const addFunction = function(a, b) {
   return a + b;
 };
+
+export default addFunction;
